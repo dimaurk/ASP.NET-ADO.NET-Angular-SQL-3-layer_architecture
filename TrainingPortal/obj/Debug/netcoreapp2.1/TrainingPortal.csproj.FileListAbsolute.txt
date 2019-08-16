@@ -1,0 +1,34 @@
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.deps.json
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.runtimeconfig.json
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.runtimeconfig.dev.json
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.dll
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.pdb
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\My project\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.csprojAssemblyReference.cache
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.csproj.CoreCompileInputs.cache
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.RazorAssemblyInfo.cache
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.RazorAssemblyInfo.cs
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.AssemblyInfoInputs.cache
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.AssemblyInfo.cs
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.RazorTargetAssemblyInfo.cache
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.csproj.CopyComplete
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.dll
+D:\My project\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.pdb
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.deps.json
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.runtimeconfig.json
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.runtimeconfig.dev.json
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.dll
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\TrainingPortal.pdb
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\TrainingPortal\TrainingPortal\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.csprojAssemblyReference.cache
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.csproj.CoreCompileInputs.cache
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.RazorAssemblyInfo.cache
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.RazorAssemblyInfo.cs
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.AssemblyInfoInputs.cache
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.AssemblyInfo.cs
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.RazorTargetAssemblyInfo.cache
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.csproj.CopyComplete
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.dll
+D:\TrainingPortal\TrainingPortal\obj\Debug\netcoreapp2.1\TrainingPortal.pdb

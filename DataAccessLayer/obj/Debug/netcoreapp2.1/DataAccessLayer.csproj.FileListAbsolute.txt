@@ -1,0 +1,21 @@
+D:\My project\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\My project\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\My project\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\My project\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\My project\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\My project\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\My project\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\My project\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\My project\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TrainingPortal\DataAccessLayer\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CopyComplete
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\TrainingPortal\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
